@@ -1,0 +1,21 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,Matches
+1,Erling Haaland,NOR,FW,Manchester City,23-080,2000,7.9,8,30,15,50,3.81,1.91,0.23,0.47,11.3,0,1,2,7.9,6.3,0.21,0.1,0.7,Matches
+2,Son Heung-min,KOR,FW,Tottenham,31-093,1992,6.9,6,23,11,47.8,3.31,1.58,0.26,0.55,15.7,0,0,0,3.2,3.2,0.14,2.8,2.8,Matches
+3,Alexander Isak,SWE,FW,Newcastle Utd,24-018,1999,5.2,6,17,10,58.8,3.25,1.91,0.29,0.5,12.6,0,1,1,5.4,4.6,0.28,0.6,0.4,Matches
+4,Jarrod Bowen,ENG,"FW,MF",West Ham,26-293,1996,8,5,23,11,47.8,2.88,1.38,0.22,0.45,13.8,0,0,0,3.6,3.6,0.16,1.4,1.4,Matches
+5,Hwang Hee-chan,KOR,"FW,MF",Wolves,27-256,1996,4.6,5,12,5,41.7,2.61,1.09,0.42,1,11.6,0,0,0,1.2,1.2,0.1,3.8,3.8,Matches
+6,Mohamed Salah,EGY,FW,Liverpool,31-116,1992,7.6,5,23,8,34.8,3.03,1.05,0.13,0.38,17.7,0,2,3,5.2,2.7,0.12,-0.2,0.3,Matches
+7,Odsonne Édouard,FRA,"FW,MF",Crystal Palace,25-266,1998,6.7,4,20,9,45,2.97,1.33,0.2,0.44,12.4,1,0,0,2.6,2.6,0.13,1.4,1.4,Matches
+8,Evan Ferguson,IRL,FW,Brighton,18-355,2004,4,4,16,11,68.8,3.98,2.73,0.25,0.36,17.1,0,0,0,2.5,2.5,0.16,1.5,1.5,Matches
+9,Bryan Mbeumo,CMR,"FW,DF",Brentford,24-063,1999,8,4,15,5,33.3,1.87,0.62,0.13,0.4,15.1,1,2,2,4.7,3.1,0.21,-0.7,-1.1,Matches
+10,Bukayo Saka,ENG,FW,Arsenal,22-034,2001,6.8,4,16,7,43.8,2.35,1.03,0.13,0.29,16.5,0,2,2,4.1,2.5,0.15,-0.1,-0.5,Matches
+11,Ollie Watkins,ENG,FW,Aston Villa,27-283,1995,7.5,4,25,10,40,3.32,1.33,0.16,0.4,12.5,0,0,0,3.6,3.6,0.15,0.4,0.4,Matches
+12,Callum Wilson,ENG,FW,Newcastle Utd,31-224,1992,2.9,4,14,10,71.4,4.77,3.41,0.21,0.3,14.3,0,1,1,3.6,2.8,0.2,0.4,0.2,Matches
+13,Julián Álvarez,ARG,"MF,FW",Manchester City,23-251,2000,7.4,3,24,10,41.7,3.26,1.36,0.13,0.3,19,6,0,0,2.6,2.6,0.11,0.4,0.4,Matches
+14,Taiwo Awoniyi,NGA,FW,Nott'ham Forest,26-058,1997,5.4,3,9,3,33.3,1.66,0.55,0.33,1,9.1,0,0,0,2.3,2.3,0.26,0.7,0.7,Matches
+15,Abdoulaye Doucouré,MLI,"FW,MF",Everton,30-281,1993,7.5,3,16,10,62.5,2.13,1.33,0.19,0.3,11.5,0,0,0,3.1,3.1,0.24,-0.1,-0.1,Matches
+16,Lyle Foster,RSA,"FW,MF",Burnley,23-036,2000,5.7,3,10,5,50,1.74,0.87,0.3,0.6,16.2,0,0,0,1.6,1.6,0.16,1.4,1.4,Matches
+17,Mathias Jensen,DEN,MF,Brentford,27-281,1996,6.9,3,5,4,80,0.73,0.58,0.6,0.75,22.5,2,0,0,0.3,0.3,0.06,2.7,2.7,Matches
+18,Douglas Luiz,BRA,MF,Aston Villa,25-153,1998,7.4,3,14,2,14.3,1.88,0.27,0.07,0.5,24.3,2,2,2,2.3,0.7,0.05,0.7,0.3,Matches
+19,Solly March,ENG,"FW,DF",Brighton,29-081,1994,5.2,3,14,6,42.9,2.71,1.16,0.21,0.5,16.6,1,0,0,2,2,0.14,1,1,Matches
+20,Kaoru Mitoma,JPN,FW,Brighton,26-142,1997,7.4,3,14,5,35.7,1.89,0.68,0.21,0.6,12.8,0,0,0,1.9,1.9,0.14,1.1,1.1,Matches
